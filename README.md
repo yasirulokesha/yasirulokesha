@@ -2,13 +2,8 @@
 🚀 Tech Explorer <br>🎓 CS Undergrad @ Swinburne<br>
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yasiru.lokesha.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yasiru_lokesha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasirulokesha) 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=yasirulokesha&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirulokesha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![yasirulokesha's Stats](https://github-readme-stats.vercel.app/api?username=yasirulokesha&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) <br/>
+![yasirulokesha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirulokesha&theme=vue-dark&show_icons=true&hide_border=true)
 
 
 ## 🏆 GitHub Trophies
