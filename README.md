@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Yasiru Lokesha</h1>
+<h1 align="center">Hi there 👋<br/> I'm Yasiru Lokesha</h1>
 
 <p align="center">
   🚀 <strong>Tech Explorer</strong> <br>
@@ -12,12 +12,6 @@
     <img src="https://img.shields.io/badge/💼 LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
-
-
-
-
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Quote" />
 </div>
