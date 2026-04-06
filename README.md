@@ -23,14 +23,6 @@
 </a>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasirulokesha&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="yasirulokesha's GitHub Stats" width="450"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirulokesha&layout=compact&theme=vue-dark&show_icons=true&hide_border=true" alt="yasirulokesha's Top Languages" width="300"/>
-</p>
-
-
-
 # Thank you for exploring me ! 🤖 
 
 
