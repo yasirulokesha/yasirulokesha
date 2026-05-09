@@ -94,9 +94,10 @@ fun_fact: "I debug with snacks and stubbornness."
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasirulokesha&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4C8EDA&line=4C8EDA&point=ffffff&area=true" alt="activity graph" />
 </div>
 
+<!-- 
 ---
-```
-## 🚀 Featured Projects
+
+## 🚀 Featured Projects 
 
 <div align="center">
 
@@ -108,9 +109,8 @@ fun_fact: "I debug with snacks and stubbornness."
 </a>
 
 </div>
-
+-->
 ---
-```
 ## 🏆 Certifications
 
 <div align="center">
