@@ -6,7 +6,7 @@
 <!-- ===== TYPING INTRO ===== -->
 <div align="center">
   <a href="https://yasiru.online">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=4C8EDA&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Yasiru+%F0%9F%91%8B;Computer+Science+Undergrad+%40+Swinburne;Turning+caffeine+into+code+%E2%98%95%E2%9E%9C%F0%9F%92%BB;Always+learning%2C+always+building." alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=4C8EDA&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Yasiru+%F0%9F%91%8B;Computer+Science+Graduated+%40+Swinburne;Turning+caffeine+into+code+%E2%98%95%E2%9E%9C%F0%9F%92%BB;Always+learning%2C+always+building." alt="typing" />
   </a>
 </div>
 
